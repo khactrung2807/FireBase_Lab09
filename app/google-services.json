@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538733849554",
+    "project_id": "projecttuan8",
+    "storage_bucket": "projecttuan8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538733849554:android:39f9187c51403f54c3f60b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tuan9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538733849554-r8n49krh1govr953jklorllod2j30lti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwhjJJkKDT8m9DgYLra9pU7RvP0cQ1yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538733849554-r8n49krh1govr953jklorllod2j30lti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
